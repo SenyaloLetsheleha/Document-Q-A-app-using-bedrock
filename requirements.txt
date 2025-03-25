@@ -1,0 +1,9 @@
+boto3==1.37.5
+botocore==1.37.5
+langchain==0.3.19
+langchain-community==0.3.18
+langchain-core==0.3.40
+langchain-text-splitters==0.3.6
+streamlit==1.42.2
+awscli
+
